@@ -1,0 +1,12 @@
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\bin\Debug\ArasSizeRangeTemplate.exe.config
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\bin\Debug\ArasSizeRangeTemplate.exe
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\bin\Debug\ArasSizeRangeTemplate.pdb
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\obj\Debug\ArasSizeRangeTemplate.csprojResolveAssemblyReference.cache
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\obj\Debug\ArasSizeRangeTemplate.Properties.Resources.resources
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\obj\Debug\ArasSizeRangeTemplate.csproj.GenerateResource.Cache
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\obj\Debug\ArasSizeRangeTemplate.exe
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\obj\Debug\ArasSizeRangeTemplate.pdb
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\obj\Debug\ArasSizeRangeTemplate.FrmMain.resources
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\bin\Debug\WesCommonLibrary.dll
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\bin\Debug\Newtonsoft.Json.dll
+F:\test\ArasSizeRangeTemplate\ArasSizeRangeTemplate\bin\Debug\WesCommonLibrary.pdb
