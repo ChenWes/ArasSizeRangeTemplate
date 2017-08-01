@@ -116,7 +116,7 @@ namespace ArasSizeRangeTemplate
             {
                 l_getAML.Insert(0, "<Relationships>" + "\r\n");
 
-                l_getAML.Append("<Relationships>" + "\r\n");
+                l_getAML.Append("</Relationships>" + "\r\n");
             }
 
             txt_AML.Text = l_getAML.ToString();
